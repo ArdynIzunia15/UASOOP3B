@@ -30,7 +30,7 @@ class PesawatJet implements Animal {
 
 class Helikopter implements Animal {
     public void fly() {
-        System.out.println("[INFO] Helikopter terbang mengitari gedung");
+        System.out.println("[INFO] Helikopter terbang mengitari gedung.");
     }
 }
 
