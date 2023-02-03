@@ -12,25 +12,25 @@ class Elang implements Animal {
 
 class BurungGagak implements Animal {
     public void fly() {
-        System.out.println("[INFO] Gagak terbang dan berkoak\n");
+        System.out.println("[INFO] Gagak terbang dan berkoak");
     }
 }
 
 class BurungHantu implements Animal {
     public void fly() {
-        System.out.println("[INFO] Burung hantu bertengger dan bersuara Huuu hu hu hu\n");
+        System.out.println("[INFO] Burung hantu bertengger dan bersuara Huuu hu hu hu");
     }
 }
 
 class PesawatJet implements Animal {
     public void fly() {
-        System.out.println("[INFO] Pesawat berada dalam posisi take off\n");
+        System.out.println("[INFO] Pesawat berada dalam posisi take off");
     }
 }
 
 class Helikopter implements Animal {
     public void fly() {
-        System.out.println("[INFO] Helikopter terbang mengitari gedung\n");
+        System.out.println("[INFO] Helikopter terbang mengitari gedung");
     }
 }
 
